@@ -9,8 +9,8 @@ script:
 
 # Генерация документации
 after_success:
-  - git clone -b develop https://github.com/mikaelkg/DecisionTree
-  - cd DecisionTree
+  - git clone -b develop https://github.com/mikaelkg/BSTTree
+  - cd BSTTree
   - doxygen docs/doxygen.conf
   - ls | grep "[^docs]" | xargs rm -rf
   - mv docs/html/* . && rm -rf docs
