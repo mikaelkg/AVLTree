@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['node',['Node',['../structBSTTree_1_1Node.html#aace8406775d1a36b261e77a2a3b39a6d',1,'BSTTree::Node']]]
+  ['min_5fnode',['min_Node',['../namespaceBSTTree.html#a6f443ea321459e87767d1b2e936d3020',1,'BSTTree']]]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['in',['in',['../namespaceBSTTree.html#a711723b85e5af09e10bfcc3a3b501fe2a13b5bfe96f3e2fe411c9f66f4a582adf',1,'BSTTree']]],
-  ['insert',['insert',['../classBSTTree_1_1Tree.html#ad54a5d0e8e2579e314009762f69538e9',1,'BSTTree::Tree']]]
+  ['empty',['empty',['../classBSTTree_1_1Tree.html#aac1d951ae3f8e222148b75f322d8a11d',1,'BSTTree::Tree']]],
+  ['exist_5ffile',['exist_file',['../classBSTTree_1_1TUI.html#aebec4a58b1e98508e662f92dff051b8c',1,'BSTTree::TUI']]],
+  ['exists',['exists',['../classBSTTree_1_1Tree.html#a26aae1da190027b187e776a0bdf2f2d9',1,'BSTTree::Tree']]]
 ];

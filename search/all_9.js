@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['post',['post',['../namespaceBSTTree.html#a711723b85e5af09e10bfcc3a3b501fe2a42b90196b487c54069097a68fe98ab6f',1,'BSTTree']]],
-  ['pre',['pre',['../namespaceBSTTree.html#a711723b85e5af09e10bfcc3a3b501fe2a6bf9e70a1f928aba143ef1eebe2720b5',1,'BSTTree']]],
-  ['preprocessing',['preprocessing',['../classBSTTree_1_1TUI.html#a4a4812364a16cfa63a03c61225d099c2',1,'BSTTree::TUI']]],
-  ['print',['print',['../classBSTTree_1_1Tree.html#a49f76a14144fdb819cc0be635de280bf',1,'BSTTree::Tree']]]
+  ['operator_3c_3c',['operator&lt;&lt;',['../classBSTTree_1_1Tree.html#a55f54444b029952a4c4331e3db6be9bc',1,'BSTTree::Tree']]],
+  ['operator_3d',['operator=',['../classBSTTree_1_1Tree.html#a4310f8ce5de32401811946bb20b5e634',1,'BSTTree::Tree::operator=(const Tree &amp;tree) -&gt; Tree &amp;'],['../classBSTTree_1_1Tree.html#a46d0e3194925ab8f98be5b97aab04a78',1,'BSTTree::Tree::operator=(Tree &amp;&amp;tree) -&gt; Tree &amp;']]]
 ];

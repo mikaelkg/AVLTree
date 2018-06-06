@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7etree',['~Tree',['../classBSTTree_1_1Tree.html#a9342fe23d2476501afc8574ba822d0dd',1,'BSTTree::Tree']]]
+  ['wrong',['wrong',['../namespaceBSTTree.html#a711723b85e5af09e10bfcc3a3b501fe2a2bda2998d9b0ee197da142a0447f6725',1,'BSTTree']]]
 ];

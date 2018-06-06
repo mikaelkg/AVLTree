@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['save',['save',['../classBSTTree_1_1Tree.html#a0e09a7c6fdda41248a8161fc82b866d3',1,'BSTTree::Tree']]],
-  ['sub_5fchoose',['sub_choose',['../classBSTTree_1_1TUI.html#a5c7b39fad048f7533eac342b25f2dd87',1,'BSTTree::TUI']]]
+  ['readme_2emd',['README.md',['../README_8md.html',1,'']]],
+  ['remove',['remove',['../classBSTTree_1_1Tree.html#a98e5fff4ba3a4c671331ac6f29df6676',1,'BSTTree::Tree']]],
+  ['right',['right',['../structBSTTree_1_1Node.html#a51a49dec2ada0ba140f9df5aa48119a8',1,'BSTTree::Node']]],
+  ['root',['root',['../classBSTTree_1_1Tree.html#a542ae16bd62ffedad6e1b9e1fa324dcb',1,'BSTTree::Tree']]]
 ];
