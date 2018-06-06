@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/mikaelkg/BSTTree.svg?branch=develop)](https://travis-ci.org/mikaelkg/BSTTree)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/mikaelkg/bsttree)](https://ci.appveyor.com/project/mikaelkg/bsttree) 
+[![Build status](https://ci.appveyor.com/api/projects/status/dmc6huas8uyda16j?svg=true)](https://ci.appveyor.com/project/mikaelkg/bsttree)
 # BSTTree
 Целью данного проекта является разработка программы для работы с двоичным деревом поиска (далее будем называть просто деревом) со следующим TUI:
 ### Select one of the following operations::
